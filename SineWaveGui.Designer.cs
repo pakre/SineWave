@@ -1,6 +1,6 @@
 ﻿namespace gui
 {
-    partial class SineWave
+    partial class SineWaveGui
     {
         /// <summary>
         /// Vyžaduje se proměnná návrháře.

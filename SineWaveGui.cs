@@ -11,9 +11,9 @@ using System.Windows.Forms.DataVisualization.Charting;
 
 namespace gui
 {
-    public partial class SineWave : Form
+    public partial class SineWaveGui : Form
     {
-        public SineWave()
+        public SineWaveGui()
         {
             InitializeComponent();
 

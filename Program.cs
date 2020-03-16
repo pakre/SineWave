@@ -16,7 +16,7 @@ namespace gui
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SineWave());
+            Application.Run(new SineWaveGui());
         }
     }
 }
